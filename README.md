@@ -1,4 +1,4 @@
-# High Score Display Management
+# Leader Board 
 
 ## Objective
 
