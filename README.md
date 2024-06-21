@@ -31,7 +31,7 @@ The program should display:
 ### 1. Set Up Project
 
 - Create a new C++ project and set up your development environment.
-- Include necessary headers (`<iostream>`, `<string>`, `<algorithm>`).
+- Include necessary headers (`<iostream>`, `<string>`).
 
 ### 2. Define Variables
 
